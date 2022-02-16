@@ -1,0 +1,25 @@
+.modal-content {
+  background-color: #fefefe;
+  margin: 15% auto auto auto; /* 5% from the top, 15% from the bottom and centered */
+  border: 1px solid #888;
+  width: 40%; /* Could be more or less, depending on screen size */
+  background-color: lightgrey;
+  align-items: center;
+  height: 80%;
+}
+
+input[type="text"],
+input[type="password"] {
+  width: 70%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  // display: inline-block;
+  // border: 1px solid #ccc;
+  // box-sizing: border-box;
+}
+.btn {
+  margin: 0 0 20px 55px;
+}
+.label {
+  padding-right: 10px;
+}
